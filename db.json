@@ -1,9 +1,29 @@
 {
   "perfil": [
     {
-      "nombre": "Nahuel Ledesma",
+      "nombre": "Nahuel Joaquín Ledesma",
       "email": "nahuledes17@gmail.com",
       "id": 1
+    },
+    {
+      "nombre": "Natalia Liz Diaz",
+      "email": "NatyDiaz@gmail.com",
+      "id": 1
+    },
+    {
+      "nombre": "Joaquín Ledesma",
+      "email": "joaquin@gmail.com",
+      "id": "783e504f-0ee6-4843-be1c-0a3f498c5d85"
+    },
+    {
+      "nombre": "Martin",
+      "email": "martin@gmail.com",
+      "id": "0c4ee81a-1d6d-4f3a-b25b-461beb5193ae"
+    },
+    {
+      "nombre": "José",
+      "email": "jose@gmail.com",
+      "id": "f3c54de4-b174-4cb3-aaf2-9ba628ed0d71"
     }
   ]
 }
